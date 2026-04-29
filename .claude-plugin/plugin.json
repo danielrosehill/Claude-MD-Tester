@@ -1,0 +1,12 @@
+{
+  "name": "claude-md-tester",
+  "version": "0.1.0",
+  "description": "Safely swap ~/.claude/CLAUDE.md for test/joke configs via symlink, with terminal-only restore that does not depend on the harness",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
+  "repository": "https://github.com/danielrosehill/Claude-MD-Tester",
+  "license": "MIT",
+  "keywords": ["claude-md", "testing", "config", "symlink"]
+}
